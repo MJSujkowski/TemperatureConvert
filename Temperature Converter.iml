@@ -20,4 +20,3 @@ public class TempConverter {
       trueOrFalse = input.nextBoolean();
     } while (trueOrFalse);
   }
-}
